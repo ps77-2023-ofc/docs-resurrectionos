@@ -17,10 +17,11 @@ Paz, de parte de
 
   Este proyecto sigue en desarrollo activo.
 
-índice
+Índice
 --------
 No mucho, un poco de navegación fácil por la wiki 😉
 
 .. toctree::
 
    :doc:`La Página Web Oficial </user/la-pagina-oficial>`
+
