@@ -1,4 +1,4 @@
-# Resurrection OS Knowledge Base Docs
+Resurrection OS Knowledge Base Docs
 =======================================
 
 **Lumache** (/lu'make/) is a Python library for cooks and food lovers
