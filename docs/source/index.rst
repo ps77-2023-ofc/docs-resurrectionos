@@ -21,7 +21,5 @@ Paz, de parte de
 ------
 No mucho, un poco de navegación fácil por la wiki 😉
 
-.. toctree::
-
    :doc:`La Página Web Oficial </user/la-pagina-oficial>`
 
