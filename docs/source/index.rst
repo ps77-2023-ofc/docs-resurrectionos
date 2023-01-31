@@ -1,5 +1,5 @@
-Welcome to Lumache's documentation!
-===================================
+Resurrection OS Knowledge Base Docs
+=======================================
 
 **Lumache** (/lu'make/) is a Python library for cooks and food lovers
 that creates recipes mixing random ingredients.
