@@ -18,7 +18,7 @@ Paz, de parte de
   Este proyecto sigue en desarrollo activo.
 
 Índice
---------
+------
 No mucho, un poco de navegación fácil por la wiki 😉
 
 .. toctree::
