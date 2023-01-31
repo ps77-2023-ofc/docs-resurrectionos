@@ -23,4 +23,4 @@ No mucho, un poco de navegación fácil por la wiki 😉
 
 .. toctree::
 
-   la-página-web-oficial
+   :doc:`La Página Web Oficial </user/la-pagina-oficial>`
