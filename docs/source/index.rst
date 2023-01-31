@@ -21,5 +21,5 @@ Paz, de parte de
 ------
 No mucho, un poco de navegación fácil por la wiki 😉
 
-- **La Página Web Oficial:** :doc:`La Página Web Oficial </la-pagina-oficial>`
+- **La Página Web Oficial:** :doc:`La Página Web Oficial </source/la-pagina-oficial>`
 
